@@ -1,3 +1,3 @@
-1º trabalho NPC2 - Letícia Oliveira e Marcos Aurélio
+1º project NPC2 - Letícia Oliveira and Marcos Aurélio
 
-Trabalho de faculdade sobre manipulação de arquivos
+Small college project about file management
